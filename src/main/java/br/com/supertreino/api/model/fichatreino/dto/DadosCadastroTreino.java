@@ -1,4 +1,4 @@
-package br.com.supertreino.api.model.fichatreino;
+package br.com.supertreino.api.model.fichatreino.dto;
 
 import br.com.supertreino.api.model.exercicio.Exercicio;
 import jakarta.validation.constraints.NotBlank;

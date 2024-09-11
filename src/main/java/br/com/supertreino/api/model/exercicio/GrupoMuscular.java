@@ -1,12 +1,18 @@
-package br.com.supertreino.api.model;
+package br.com.supertreino.api.model.exercicio;
 
 public enum GrupoMuscular {
-    PEITORAL,
-    COSTAS,
-    PERNAS,
-    OMBROS,
     BICEPS,
+    ANTEBRACOS,
+    OMBROS,
     TRICEPS,
+    QUADRICEPS,
+    GLUTEOS,
+    DORSAL,
+    COSTAS,
+    POSTERIORES,
+    PEITO,
     ABDOMEN,
-    GLUTEOS
+    OBLIQUOS,
+    TRAPEZIO,
+    PANTURRILHAS
 }

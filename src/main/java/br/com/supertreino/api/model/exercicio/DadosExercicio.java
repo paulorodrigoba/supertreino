@@ -1,4 +1,8 @@
 package br.com.supertreino.api.model.exercicio;
 
-public record DadosExercicioMusculacao(String id, String name, String targetMuscle) {
+
+public record DadosExercicio(
+        String nomeExercicio,
+        GrupoMuscular grupoMuscular
+) {
 }
